@@ -2,7 +2,7 @@
 
 ## Summary
 
-This repository contains all of the notes taken by [Astrid](https://github.com/astridcha1x) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp.
+This repository contains all of the notes taken by [Astrid Cyrinne](https://github.com/astridcha1x) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp.
 
 ## Table of Contents
 * [Week 1](/Week_1)
