@@ -10,7 +10,7 @@ This repository contains all of the notes taken by [Astrid Cyrinne](https://gith
 ### [**WEEK 1**](/Week_1)
   * [Day 1](/Week_1/Day_1)
   * [Day 2](/Week_1/Day_2)
-  * Day 3
+  * [Day 3](/Week_1/Day_3)
   * Day 4
   * Day 5
   * Weekend
@@ -18,5 +18,5 @@ This repository contains all of the notes taken by [Astrid Cyrinne](https://gith
 
 ## Resources
 ---
-
-
+* [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* [Python Tutor](http://pythontutor.com/) (code visualization)
