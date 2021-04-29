@@ -24,4 +24,4 @@ Single tasks that functions can focus on would ideally be to return a value, or 
 You can break your function into additional smaller functions if they do more than one task.
 
 ## **5. Pass Necessary Data as Parameters**
-If a function requires certain information, it should be passed in as arguments in the local scope rather than being accessed directly. [*Refer to JavaScript Scope for more details.*](/javascript_scope.md)
+If a function requires certain information, it should be passed in as arguments in the local scope rather than being accessed directly. [*Refer to JavaScript Scope for more details.*](/Week_1/Day_2/javascript_scope.md)
