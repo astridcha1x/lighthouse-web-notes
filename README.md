@@ -8,12 +8,12 @@ This repository contains all of the notes taken by [Astrid Cyrinne](https://gith
 ## Table of Contents
 ---
 ### [**WEEK 1**](/Week_1)
-  * [Day 1](/Week_1/Day_1)
-  * [Day 2](/Week_1/Day_2)
-  * [Day 3](/Week_1/Day_3)
-  * Day 4
-  * Day 5
-  * Weekend
+  * [**Day 1**](/Week_1/Day_1): [Command line arguments](/Week_1/Day_1/command_line_args.md)
+  * [**Day 2**](/Week_1/Day_2): [Coercion & Truthy/Falsey](/Week_1/Day_2/coercion_truthy_falsey.md), [Function best practices](/Week_1/Day_2/function_best_practices.md), [Scope](/Week_1/Day_2/javascript_scope.md)
+  * [**Day 3**](/Week_1/Day_3): [Primitive data types](/Week_1/Day_3/primitive_data_types.md)
+  * [**Day 4**](/Week_1/Day_4/)
+  * ~~Day 5~~
+  * ~~Weekend~~
 * ~~Week 1 Summary~~
 
 ## Resources
